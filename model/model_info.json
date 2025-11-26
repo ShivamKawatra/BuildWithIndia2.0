@@ -1,0 +1,31 @@
+{
+  "model_type": "YOLOv8n",
+  "framework": "Ultralytics",
+  "dataset": "Falcon Synthetic Data",
+  "classes": [
+    "person",
+    "chair",
+    "dining table",
+    "laptop",
+    "bottle",
+    "book",
+    "cell phone",
+    "cup"
+  ],
+  "performance": {
+    "final_map50": 0.673,
+    "final_precision": 0.741,
+    "final_recall": 0.695,
+    "training_epochs": 100,
+    "training_time_hours": 1.8,
+    "model_size_mb": 6.2
+  },
+  "training_config": {
+    "epochs": 100,
+    "batch_size": 16,
+    "image_size": 640,
+    "optimizer": "Adam",
+    "learning_rate": 0.01
+  },
+  "timestamp": "2025-11-26T23:18:16.621451"
+}
