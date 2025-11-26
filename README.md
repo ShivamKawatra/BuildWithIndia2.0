@@ -134,7 +134,7 @@ print(f"mAP@0.5: {metrics.box.map50:.3f}")
 - **Team Leader**: Shivam Kawatra
 - **Members**: Anjali Verma, Arpit Sharma, Abhishek Kumar Gupta, Kshitij Varshney, Dev Gaur
 - **Contact**: shivamkawatra261205@gmail.com
-- **Submission Date**: November 26, 2024
+- **Submission Date**: November 26, 2025
 - **GitHub Repository**: https://github.com/ShivamKawatra/BuildWithIndia2.0.git
 
 ## Key Achievements
